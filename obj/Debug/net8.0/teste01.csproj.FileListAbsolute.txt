@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\bin\Debug\net8.0\teste01.exe
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\bin\Debug\net8.0\teste01.deps.json
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\bin\Debug\net8.0\teste01.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\bin\Debug\net8.0\teste01.dll
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\bin\Debug\net8.0\teste01.pdb
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.dll
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\refint\teste01.dll
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.pdb
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\teste01.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Coding\Todos Codigos\C#\teste001\teste01\obj\Debug\net8.0\ref\teste01.dll
